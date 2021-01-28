@@ -127,7 +127,7 @@ input[type='text'] {
   }
 }
 
-@media (max-width: 500px) {
+@media (max-width: 501px) {
   .cards {
     grid-template-columns: 1fr;
   }
